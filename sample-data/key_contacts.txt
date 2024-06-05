@@ -1,0 +1,11 @@
+Contains location, name & email
+Scranton - Michael michael@gptscript-fakeco.com
+Stamford Martin marty@gptscript-fakeco.com
+Nashua - Rachael, rach@gptscript-fakeco.com
+Utica,Ross - ross@gptscript-fakeco.com
+Albany    Allen    allen@gptscript-fakeco.com
+Akron;Pam;pam@gptscript-fakeco.com
+Camden. Kali. kali@gptscript-fakeco.com
+Yonkers - Meredith - meredith@gptscript-fakeco.com
+Rochester Kevin
+Syracuse William will@gptscript-fakeco.com
